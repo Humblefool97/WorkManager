@@ -1,0 +1,2 @@
+rootProject.name='SampleWorkManager'
+include ':app'
